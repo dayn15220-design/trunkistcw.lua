@@ -1,0 +1,2 @@
+# trunkistcw.lua
+combat warriors
